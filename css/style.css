@@ -1,6 +1,6 @@
 body {
-    background-color: #000000;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(0, 0, 0);
+    font-family: 'comic sans';
     margin: 30px;
     color: limegreen;
 }
@@ -25,4 +25,13 @@ a {
 #tittle {
     text-transform: uppercase;
     text-align: center;
+}
+table {
+    table-layout: fixed;
+    width: 500px;
+    text-align: center;
+    }
+td {
+    border: 1px solid white;
+    padding: 10px
 }
